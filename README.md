@@ -1,7 +1,7 @@
-# opensource-rag
+# RAG with Opensource LLM and Multivector retriever
 
 
-## Overview
+### Overview
 
 This notebook demonstrates the implementation of a Retrieval-Augmented Generation (RAG) pipeline using the following components:
 
